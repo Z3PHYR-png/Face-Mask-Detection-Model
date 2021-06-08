@@ -106,6 +106,21 @@ $ pip3 install -r requirements.txt</code>
 
 ![Image of Plot](https://github.com/Z3PHYR-png/Face-Mask-Detection/blob/main/plot.png)
 
+<h2>Working:</h2>
+
+1.Open terminal.<br>
+Go into the cloned project directory and type the following command:<br>
+<code>$ python3 train_mask_detector.py -- dataset dataset</code><br>
+2.To detect face masks in an image type the
+following command:
+
+<code>$ python3 detect_mask_image.py --image
+images/pic1.jpeg</code>
+  
+3.To detect face masks in real-time video streams
+type the following command:
+<code>$ python3 detect_mask_video.py</code>
+
 <h2>Resource Links:</h2>
 
 Repository used : https://github.com/balajisrinivas/FaceMask-Detection.git<br>
