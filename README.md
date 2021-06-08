@@ -18,7 +18,9 @@ wearing a mask or not.
 
 [ Code: https://github.com/balajisrinivas/Face-Mask-Detection/blob/master/train_mask_detector.py ]
 
-Understanding the Face Mask Detection Algorithm:
+<h3>Understanding the Face Mask Detection Algorithm:</h3>
+
+![Image of Diagram](https://github.com/Z3PHYR-png/Face-Mask-Detection-Model/blob/main/Screenshot%202021-06-08%20203023.png)
 
 There are given a dataset which is further divided into two
 parts : one being a folder with approximately 1,910
