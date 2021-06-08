@@ -103,3 +103,14 @@ Terminal/Command Prompt to install the libraries
 required:
 <code>
 $ pip3 install -r requirements.txt</code>
+
+![Image of Plot](https://github.com/Z3PHYR-png/Face-Mask-Detection/blob/main/plot.png)
+
+<h2>Resource Links:</h2>
+
+Repository used : https://github.com/balajisrinivas/FaceMask-Detection.git<br>
+Images : https://www.pyimagesearch.com/
+
+
+
+
